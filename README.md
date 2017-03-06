@@ -25,7 +25,7 @@ Python IDLE installed on your machine.
 ### How to run the project from the Python IDLE:
 * Launch Python IDLE
 
-* click the `File` tab, click `Open` and then browse to and double-click the `fll-in-the-blanks.py` file
+* click the `File` tab, click `Open` and then browse to and double-click the `fill-in-the-blanks.py` file
 
 * In the newly opened window click the `Run` tab and `Run module`
 
