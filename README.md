@@ -10,7 +10,7 @@ Python IDLE installed on your machine.
 ### How to run the project from the terminal:
 * Clone the repository to your local machine:
 
-`git clone https://github.com/IurieCezar/Quiz`
+`git clone https://github.com/iuriepopovici/Quiz`
 
 * Navigate to the directory that contains the code:
 
